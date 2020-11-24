@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-int main(int argc, char** argv[]) {
+int main(int argc, char** argv) {
 	int i, nsteps;
 	double step, x, a, T, k;
 	double dur;
